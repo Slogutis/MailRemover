@@ -1,0 +1,9 @@
+Package: com.ihack102.mailremover
+Name: MailRemover
+Depends: mobilesubstrate
+Version: 0.0
+Architecture: iphoneos-arm
+Description: Add "Delete All" button on Mail App
+Maintainer: iHack102
+Author: iHack102
+Section: Tweaks
