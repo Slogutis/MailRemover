@@ -1,3 +1,7 @@
+/* Open Source <3 */
+
+
+
 %hook MailboxContentViewController
 -(bool)allowDeleteAll {
   return YES;
